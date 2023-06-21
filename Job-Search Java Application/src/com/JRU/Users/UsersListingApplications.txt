@@ -1,0 +1,42 @@
+ Chosen Listing : 
+
+
+[ Listing Id = 5,
+
+ Title = Consultant,
+ Address = 56 Byit Lane, City = Cut and Shoot, State = Texas, zipcode = 77303,
+ salary = $61300.00, careerField = Sales Consultant,
+ contactEmail = jokeefe@khov.com, 
+ Description = e ]
+
+
+ 
+ ***************************  
+ Chosen Listing : 
+
+
+[ Listing Id = 5,
+
+ Title = Consultant,
+ Address = 56 Byit Lane, City = Cut and Shoot, State = Texas, zipcode = 77303,
+ salary = $61300.00, careerField = Sales Consultant,
+ contactEmail = jokeefe@khov.com, 
+ Description = e ]
+
+
+ 
+ ***************************  
+ Chosen Listing : 
+
+
+[ Listing Id = 7,
+
+ Title = Driller/Driller Helper- Non-Oil Field,
+ Address = 777 Chaching Boulevard, City = Jackpot, State = Nevada, zipcode = 89825,
+ salary = $120000.00, careerField = Surface Driller/Driller Helper- Non-oil field,
+ contactEmail = info@majordrilling.com, 
+ Description = g ]
+
+
+ 
+ ***************************  

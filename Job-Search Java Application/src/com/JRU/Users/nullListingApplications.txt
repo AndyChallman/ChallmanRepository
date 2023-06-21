@@ -1,0 +1,42 @@
+ Chosen Listing : 
+
+
+[ Listing Id = 3,
+
+ Title = Tour Guide,
+ Address = 789 Nolight way, City = No Name, State = Colorado, zipcode = 81601,
+ salary = $33800.00, careerField = Cave tour guide,
+ contactEmail = info@glenwoodcaverns.com, 
+ Description = c ]
+
+
+ 
+ ***************************  
+ Chosen Listing : 
+
+
+[ Listing Id = 3,
+
+ Title = Tour Guide,
+ Address = 789 Nolight way, City = No Name, State = Colorado, zipcode = 81601,
+ salary = $33800.00, careerField = Cave tour guide,
+ contactEmail = info@glenwoodcaverns.com, 
+ Description = c ]
+
+
+ 
+ ***************************  
+ Chosen Listing : 
+
+
+[ Listing Id = 10,
+
+ Title = Controller,
+ Address = 7654 Lol Lane, City = Intercourse, State = Pennsylvania, zipcode = 17529,
+ salary = $85000.00, careerField = Assistant Controller,
+ contactEmail = feedback@jobot.com, 
+ Description = j ]
+
+
+ 
+ ***************************  

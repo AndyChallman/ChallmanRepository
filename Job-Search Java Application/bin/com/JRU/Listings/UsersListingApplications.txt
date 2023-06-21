@@ -1,0 +1,28 @@
+ Chosen Listing : 
+
+
+[ Listing Id = 5,
+
+ Title = Consultant,
+ Address = 56 Byit Lane, City = Cut and Shoot, State = Texas, zipcode = 77303,
+ salary = $61300.00, careerField = Sales Consultant,
+ contactEmail = jokeefe@khov.com, 
+ Description = e ]
+
+
+ 
+ ***************************  
+ Chosen Listing : 
+
+
+[ Listing Id = 5,
+
+ Title = Consultant,
+ Address = 56 Byit Lane, City = Cut and Shoot, State = Texas, zipcode = 77303,
+ salary = $61300.00, careerField = Sales Consultant,
+ contactEmail = jokeefe@khov.com, 
+ Description = e ]
+
+
+ 
+ ***************************  
