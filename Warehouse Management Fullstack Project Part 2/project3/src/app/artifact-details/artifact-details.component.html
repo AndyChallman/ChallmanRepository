@@ -1,0 +1,23 @@
+
+<h1>Artifact Details</h1>
+
+<article>
+
+
+    <div>
+        <img [src]="localArtifact.image" [alt]="localArtifact.name + ' in ' + localArtifact.warehouseId">
+    </div>
+     
+    <h2> {{ localArtifact.name }}</h2>
+    <h3>LOCATION: Warehouse {{ localArtifact.warehouseId }} : (<span>{{ localArtifact.shelf }}</span>)</h3>
+
+    <ul>
+        <li> Artifact Time Period: {{ localArtifact.timeFrame }}</li>
+        <li> Artifact Origin: {{ localArtifact.origin }}</li>
+        <li>Artifact Numerical Identifier: {{ localArtifact.itemId }}</li>
+    </ul>
+    
+    
+  
+
+</article>

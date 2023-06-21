@@ -1,0 +1,23 @@
+<article>
+
+    <img [src]="artifact.image" [alt]="artifact.name + ': ' + artifact.warehouseId"> 
+
+    <h2>{{ artifact.name }}</h2>
+    <p>{{ artifact.warehouseId }}</p>
+    
+    <ul>
+
+       <li>{{ artifact.itemId }}</li>
+       <li>{{ artifact.name }}</li>
+       <li>{{ artifact.timeFrame }}</li>
+       <li>{{ artifact.origin }}</li>
+       <li>{{ artifact.shelf }}</li>
+        
+    </ul>
+
+
+    <button (click)="updateArtifact()">UPDATE</button>
+    <button (click)="deleteArtifact()">DELETE</button>
+    <button (click)="getArtifactDetails()">GET ARTIFACT DETAILS</button>
+  
+</article> 
