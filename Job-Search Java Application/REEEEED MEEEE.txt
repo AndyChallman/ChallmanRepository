@@ -1,5 +1,0 @@
-Anki is a free app I found for flashcards.
-tried to copy the app files, but they were too big. 
-Java 8 is the deck I built off of the glossary from oracle and one other site. 314 cards, some probably do not apply to the cert test, but I put them in there anyways because sometimes the questions mention things we have not gone over in class.
-
-Let me know if it works for you and I will share with the rest of the class.
